@@ -1,0 +1,3 @@
+include ':PirataTools'
+include ':app'
+rootProject.name = "PirataToolsExample"
